@@ -1,16 +1,13 @@
-### Hi there 👋
+hi hiii helloo
 
-<!--
-**duckribbon/duckribbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8b43c7f0-8b9a-47de-b46f-4debcf39715c/d5i2gx7-7e10d6b1-a012-4ebe-a621-0e66b76797cd.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhiNDNjN2YwLThiOWEtNDdkZS1iNDZmLTRkZWJjZjM5NzE1Y1wvZDVpMmd4Ny03ZTEwZDZiMS1hMDEyLTRlYmUtYTYyMS0wZTY2Yjc2Nzk3Y2QuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nBOrBZfii36OF2-9X8Guzu-0O76vjbvMbKwMLaU3Jck)
+![image](https://github.com/duckribbon/duckribbon/assets/136331305/c9219900-c176-423f-8fba-870929fe4cd6)
+![image](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2e5f1c88-2b10-4b08-8533-6949d5797130/dg1ga32-aeba8a6d-adef-472a-9e99-a5a0326ff1f3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJlNWYxYzg4LTJiMTAtNGIwOC04NTMzLTY5NDlkNTc5NzEzMFwvZGcxZ2EzMi1hZWJhOGE2ZC1hZGVmLTQ3MmEtOWU5OS1hNWEwMzI2ZmYxZjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CalkHn6tkqPborHA-d2KxyAKJkAML0kamKwpDG3wLqU)
+![image](https://github.com/duckribbon/duckribbon/assets/136331305/873f2169-9643-4b7e-a2dc-2da72085fb86)
+![image](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c52cfe5-e1ec-42a1-9cf6-2fa40dcaae15/dbjeans-4bcfed41-1686-457a-b03f-5c059ab4cc7d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljNTJjZmU1LWUxZWMtNDJhMS05Y2Y2LTJmYTQwZGNhYWUxNVwvZGJqZWFucy00YmNmZWQ0MS0xNjg2LTQ1N2EtYjAzZi01YzA1OWFiNGNjN2QuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HyieRGaAntnunVQI2QvxCq-EEC7-ZDj_nafQWXUkaVQ)
+![image](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/06849bc8-baca-434d-a065-b9b1e300a690/dcewye8-6093bac3-410b-4a4f-839c-efa16d7162e3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA2ODQ5YmM4LWJhY2EtNDM0ZC1hMDY1LWI5YjFlMzAwYTY5MFwvZGNld3llOC02MDkzYmFjMy00MTBiLTRhNGYtODM5Yy1lZmExNmQ3MTYyZTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SUOKupm5TYdE5HbNuU0ejeVNBouMbtRWP-c_HcRBBUo)
+![image](https://github.com/duckribbon/duckribbon/assets/136331305/aefd8767-d437-4355-9eca-1af0db424442)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://github.com/duckribbon/duckribbon/assets/136331305/1a2db793-ea86-4d7e-a486-0ece3644ac10)
+![image](https://static.wikia.nocookie.net/love-couples/images/e/eb/Mepple_and_Mipple_holding_hands.png/revision/latest?cb=20180715235450)
+![image](https://github.com/duckribbon/duckribbon/assets/136331305/0239c194-7e27-40fc-be44-56c3704c2a33)
